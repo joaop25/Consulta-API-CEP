@@ -1,0 +1,13 @@
+C:\Users\joao.fernandes\Desktop\codigos\Consultado API CEP\Consultado API CEP\bin\Debug\Consultado API CEP.exe.config
+C:\Users\joao.fernandes\Desktop\codigos\Consultado API CEP\Consultado API CEP\bin\Debug\Consultado API CEP.exe
+C:\Users\joao.fernandes\Desktop\codigos\Consultado API CEP\Consultado API CEP\bin\Debug\Consultado API CEP.pdb
+C:\Users\joao.fernandes\Desktop\codigos\Consultado API CEP\Consultado API CEP\bin\Debug\Correios.dll
+C:\Users\joao.fernandes\Desktop\codigos\Consultado API CEP\Consultado API CEP\bin\Debug\Correios.pdb
+C:\Users\joao.fernandes\Desktop\codigos\Consultado API CEP\Consultado API CEP\obj\Debug\Consultado API CEP.csproj.AssemblyReference.cache
+C:\Users\joao.fernandes\Desktop\codigos\Consultado API CEP\Consultado API CEP\obj\Debug\Consultado_API_CEP.Form1.resources
+C:\Users\joao.fernandes\Desktop\codigos\Consultado API CEP\Consultado API CEP\obj\Debug\Consultado_API_CEP.Properties.Resources.resources
+C:\Users\joao.fernandes\Desktop\codigos\Consultado API CEP\Consultado API CEP\obj\Debug\Consultado API CEP.csproj.GenerateResource.cache
+C:\Users\joao.fernandes\Desktop\codigos\Consultado API CEP\Consultado API CEP\obj\Debug\Consultado API CEP.csproj.CoreCompileInputs.cache
+C:\Users\joao.fernandes\Desktop\codigos\Consultado API CEP\Consultado API CEP\obj\Debug\Consultado API CEP.csproj.CopyComplete
+C:\Users\joao.fernandes\Desktop\codigos\Consultado API CEP\Consultado API CEP\obj\Debug\Consultado API CEP.exe
+C:\Users\joao.fernandes\Desktop\codigos\Consultado API CEP\Consultado API CEP\obj\Debug\Consultado API CEP.pdb
